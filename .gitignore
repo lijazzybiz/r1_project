@@ -1,0 +1,10 @@
+venv/
+.env
+.DS_Store
+__pycache__/
+practice/
+r1_bot.py
+lets_go_yo.txt
+past_practice/
+r1_project.code-workspace
+
