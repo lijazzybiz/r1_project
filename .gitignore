@@ -8,3 +8,7 @@ lets_go_yo.txt
 past_practice/
 r1_project.code-workspace
 discord-example-app/
+user_data/
+*.pyc
+.pytest_cache/
+.streamlit/
